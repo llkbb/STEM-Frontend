@@ -60,10 +60,7 @@ npm run preview
 | `src/data/sales.json` | 72 моковані операції |
 | `src/ui.jsx`, `src/styles.css`, `src/Guide.jsx` | Спільні елементи, стилі й довідка |
 | `tests/report.test.js` | 22 автоматичні тести |
-| `docs/assets/v2/` | Нові діаграми та знімки екранів |
-| `docs/explanatory-note.md` | Текст записки |
 | `docs/build_report.py`, `docs/report_layout.py`, `docs/diagrams.py` | Генератор DOCX |
-| `output/STEM_Klebanskyi_Frontend_Reports.docx` | Пояснювальна записка |
 
 ## Контрольні результати
 
