@@ -1,0 +1,650 @@
+[
+  {
+    "id": "S-001",
+    "date": "2026-10-01",
+    "department": "Київ",
+    "category": "Електроніка",
+    "product": "Монітор",
+    "quantity": 1,
+    "priceCents": 859900
+  },
+  {
+    "id": "S-002",
+    "date": "2026-10-02",
+    "department": "Київ",
+    "category": "Аксесуари",
+    "product": "Клавіатура",
+    "quantity": 2,
+    "priceCents": 219900
+  },
+  {
+    "id": "S-003",
+    "date": "2026-10-03",
+    "department": "Київ",
+    "category": "Офіс",
+    "product": "Настільна лампа",
+    "quantity": 3,
+    "priceCents": 149900
+  },
+  {
+    "id": "S-004",
+    "date": "2026-10-04",
+    "department": "Львів",
+    "category": "Електроніка",
+    "product": "Навушники",
+    "quantity": 4,
+    "priceCents": 329900
+  },
+  {
+    "id": "S-005",
+    "date": "2026-10-05",
+    "department": "Львів",
+    "category": "Аксесуари",
+    "product": "Кабель USB-C",
+    "quantity": 5,
+    "priceCents": 45900
+  },
+  {
+    "id": "S-006",
+    "date": "2026-10-06",
+    "department": "Львів",
+    "category": "Офіс",
+    "product": "Органайзер",
+    "quantity": 1,
+    "priceCents": 59900
+  },
+  {
+    "id": "S-007",
+    "date": "2026-10-07",
+    "department": "Одеса",
+    "category": "Електроніка",
+    "product": "Монітор",
+    "quantity": 2,
+    "priceCents": 859900
+  },
+  {
+    "id": "S-008",
+    "date": "2026-10-08",
+    "department": "Одеса",
+    "category": "Аксесуари",
+    "product": "Клавіатура",
+    "quantity": 3,
+    "priceCents": 219900
+  },
+  {
+    "id": "S-009",
+    "date": "2026-10-09",
+    "department": "Одеса",
+    "category": "Офіс",
+    "product": "Настільна лампа",
+    "quantity": 4,
+    "priceCents": 149900
+  },
+  {
+    "id": "S-010",
+    "date": "2026-10-10",
+    "department": "Київ",
+    "category": "Електроніка",
+    "product": "Навушники",
+    "quantity": 5,
+    "priceCents": 329900
+  },
+  {
+    "id": "S-011",
+    "date": "2026-10-11",
+    "department": "Київ",
+    "category": "Аксесуари",
+    "product": "Кабель USB-C",
+    "quantity": 1,
+    "priceCents": 45900
+  },
+  {
+    "id": "S-012",
+    "date": "2026-10-12",
+    "department": "Київ",
+    "category": "Офіс",
+    "product": "Органайзер",
+    "quantity": 2,
+    "priceCents": 59900
+  },
+  {
+    "id": "S-013",
+    "date": "2026-10-13",
+    "department": "Львів",
+    "category": "Електроніка",
+    "product": "Монітор",
+    "quantity": 3,
+    "priceCents": 859900
+  },
+  {
+    "id": "S-014",
+    "date": "2026-10-14",
+    "department": "Львів",
+    "category": "Аксесуари",
+    "product": "Клавіатура",
+    "quantity": 4,
+    "priceCents": 219900
+  },
+  {
+    "id": "S-015",
+    "date": "2026-10-15",
+    "department": "Львів",
+    "category": "Офіс",
+    "product": "Настільна лампа",
+    "quantity": 5,
+    "priceCents": 149900
+  },
+  {
+    "id": "S-016",
+    "date": "2026-10-16",
+    "department": "Одеса",
+    "category": "Електроніка",
+    "product": "Навушники",
+    "quantity": 1,
+    "priceCents": 329900
+  },
+  {
+    "id": "S-017",
+    "date": "2026-10-17",
+    "department": "Одеса",
+    "category": "Аксесуари",
+    "product": "Кабель USB-C",
+    "quantity": 2,
+    "priceCents": 45900
+  },
+  {
+    "id": "S-018",
+    "date": "2026-10-18",
+    "department": "Одеса",
+    "category": "Офіс",
+    "product": "Органайзер",
+    "quantity": 3,
+    "priceCents": 59900
+  },
+  {
+    "id": "S-019",
+    "date": "2026-10-19",
+    "department": "Київ",
+    "category": "Електроніка",
+    "product": "Монітор",
+    "quantity": 4,
+    "priceCents": 859900
+  },
+  {
+    "id": "S-020",
+    "date": "2026-10-20",
+    "department": "Київ",
+    "category": "Аксесуари",
+    "product": "Клавіатура",
+    "quantity": 5,
+    "priceCents": 219900
+  },
+  {
+    "id": "S-021",
+    "date": "2026-10-21",
+    "department": "Київ",
+    "category": "Офіс",
+    "product": "Настільна лампа",
+    "quantity": 1,
+    "priceCents": 149900
+  },
+  {
+    "id": "S-022",
+    "date": "2026-10-22",
+    "department": "Львів",
+    "category": "Електроніка",
+    "product": "Навушники",
+    "quantity": 2,
+    "priceCents": 329900
+  },
+  {
+    "id": "S-023",
+    "date": "2026-10-23",
+    "department": "Львів",
+    "category": "Аксесуари",
+    "product": "Кабель USB-C",
+    "quantity": 3,
+    "priceCents": 45900
+  },
+  {
+    "id": "S-024",
+    "date": "2026-10-24",
+    "department": "Львів",
+    "category": "Офіс",
+    "product": "Органайзер",
+    "quantity": 4,
+    "priceCents": 59900
+  },
+  {
+    "id": "S-025",
+    "date": "2026-10-25",
+    "department": "Одеса",
+    "category": "Електроніка",
+    "product": "Монітор",
+    "quantity": 5,
+    "priceCents": 859900
+  },
+  {
+    "id": "S-026",
+    "date": "2026-10-26",
+    "department": "Одеса",
+    "category": "Аксесуари",
+    "product": "Клавіатура",
+    "quantity": 1,
+    "priceCents": 219900
+  },
+  {
+    "id": "S-027",
+    "date": "2026-10-27",
+    "department": "Одеса",
+    "category": "Офіс",
+    "product": "Настільна лампа",
+    "quantity": 2,
+    "priceCents": 149900
+  },
+  {
+    "id": "S-028",
+    "date": "2026-10-28",
+    "department": "Київ",
+    "category": "Електроніка",
+    "product": "Навушники",
+    "quantity": 3,
+    "priceCents": 329900
+  },
+  {
+    "id": "S-029",
+    "date": "2026-10-01",
+    "department": "Київ",
+    "category": "Аксесуари",
+    "product": "Кабель USB-C",
+    "quantity": 4,
+    "priceCents": 45900
+  },
+  {
+    "id": "S-030",
+    "date": "2026-10-02",
+    "department": "Київ",
+    "category": "Офіс",
+    "product": "Органайзер",
+    "quantity": 5,
+    "priceCents": 59900
+  },
+  {
+    "id": "S-031",
+    "date": "2026-10-03",
+    "department": "Львів",
+    "category": "Електроніка",
+    "product": "Монітор",
+    "quantity": 1,
+    "priceCents": 859900
+  },
+  {
+    "id": "S-032",
+    "date": "2026-10-04",
+    "department": "Львів",
+    "category": "Аксесуари",
+    "product": "Клавіатура",
+    "quantity": 2,
+    "priceCents": 219900
+  },
+  {
+    "id": "S-033",
+    "date": "2026-10-05",
+    "department": "Львів",
+    "category": "Офіс",
+    "product": "Настільна лампа",
+    "quantity": 3,
+    "priceCents": 149900
+  },
+  {
+    "id": "S-034",
+    "date": "2026-10-06",
+    "department": "Одеса",
+    "category": "Електроніка",
+    "product": "Навушники",
+    "quantity": 4,
+    "priceCents": 329900
+  },
+  {
+    "id": "S-035",
+    "date": "2026-10-07",
+    "department": "Одеса",
+    "category": "Аксесуари",
+    "product": "Кабель USB-C",
+    "quantity": 5,
+    "priceCents": 45900
+  },
+  {
+    "id": "S-036",
+    "date": "2026-10-08",
+    "department": "Одеса",
+    "category": "Офіс",
+    "product": "Органайзер",
+    "quantity": 1,
+    "priceCents": 59900
+  },
+  {
+    "id": "S-037",
+    "date": "2026-11-09",
+    "department": "Київ",
+    "category": "Електроніка",
+    "product": "Монітор",
+    "quantity": 2,
+    "priceCents": 859900
+  },
+  {
+    "id": "S-038",
+    "date": "2026-11-10",
+    "department": "Київ",
+    "category": "Аксесуари",
+    "product": "Клавіатура",
+    "quantity": 3,
+    "priceCents": 219900
+  },
+  {
+    "id": "S-039",
+    "date": "2026-11-11",
+    "department": "Київ",
+    "category": "Офіс",
+    "product": "Настільна лампа",
+    "quantity": 4,
+    "priceCents": 149900
+  },
+  {
+    "id": "S-040",
+    "date": "2026-11-12",
+    "department": "Львів",
+    "category": "Електроніка",
+    "product": "Навушники",
+    "quantity": 5,
+    "priceCents": 329900
+  },
+  {
+    "id": "S-041",
+    "date": "2026-11-13",
+    "department": "Львів",
+    "category": "Аксесуари",
+    "product": "Кабель USB-C",
+    "quantity": 1,
+    "priceCents": 45900
+  },
+  {
+    "id": "S-042",
+    "date": "2026-11-14",
+    "department": "Львів",
+    "category": "Офіс",
+    "product": "Органайзер",
+    "quantity": 2,
+    "priceCents": 59900
+  },
+  {
+    "id": "S-043",
+    "date": "2026-11-15",
+    "department": "Одеса",
+    "category": "Електроніка",
+    "product": "Монітор",
+    "quantity": 3,
+    "priceCents": 859900
+  },
+  {
+    "id": "S-044",
+    "date": "2026-11-16",
+    "department": "Одеса",
+    "category": "Аксесуари",
+    "product": "Клавіатура",
+    "quantity": 4,
+    "priceCents": 219900
+  },
+  {
+    "id": "S-045",
+    "date": "2026-11-17",
+    "department": "Одеса",
+    "category": "Офіс",
+    "product": "Настільна лампа",
+    "quantity": 5,
+    "priceCents": 149900
+  },
+  {
+    "id": "S-046",
+    "date": "2026-11-18",
+    "department": "Київ",
+    "category": "Електроніка",
+    "product": "Навушники",
+    "quantity": 1,
+    "priceCents": 329900
+  },
+  {
+    "id": "S-047",
+    "date": "2026-11-19",
+    "department": "Київ",
+    "category": "Аксесуари",
+    "product": "Кабель USB-C",
+    "quantity": 2,
+    "priceCents": 45900
+  },
+  {
+    "id": "S-048",
+    "date": "2026-11-20",
+    "department": "Київ",
+    "category": "Офіс",
+    "product": "Органайзер",
+    "quantity": 3,
+    "priceCents": 59900
+  },
+  {
+    "id": "S-049",
+    "date": "2026-11-21",
+    "department": "Львів",
+    "category": "Електроніка",
+    "product": "Монітор",
+    "quantity": 4,
+    "priceCents": 859900
+  },
+  {
+    "id": "S-050",
+    "date": "2026-11-22",
+    "department": "Львів",
+    "category": "Аксесуари",
+    "product": "Клавіатура",
+    "quantity": 5,
+    "priceCents": 219900
+  },
+  {
+    "id": "S-051",
+    "date": "2026-11-23",
+    "department": "Львів",
+    "category": "Офіс",
+    "product": "Настільна лампа",
+    "quantity": 1,
+    "priceCents": 149900
+  },
+  {
+    "id": "S-052",
+    "date": "2026-11-24",
+    "department": "Одеса",
+    "category": "Електроніка",
+    "product": "Навушники",
+    "quantity": 2,
+    "priceCents": 329900
+  },
+  {
+    "id": "S-053",
+    "date": "2026-11-25",
+    "department": "Одеса",
+    "category": "Аксесуари",
+    "product": "Кабель USB-C",
+    "quantity": 3,
+    "priceCents": 45900
+  },
+  {
+    "id": "S-054",
+    "date": "2026-11-26",
+    "department": "Одеса",
+    "category": "Офіс",
+    "product": "Органайзер",
+    "quantity": 4,
+    "priceCents": 59900
+  },
+  {
+    "id": "S-055",
+    "date": "2026-11-27",
+    "department": "Київ",
+    "category": "Електроніка",
+    "product": "Монітор",
+    "quantity": 5,
+    "priceCents": 859900
+  },
+  {
+    "id": "S-056",
+    "date": "2026-11-28",
+    "department": "Київ",
+    "category": "Аксесуари",
+    "product": "Клавіатура",
+    "quantity": 1,
+    "priceCents": 219900
+  },
+  {
+    "id": "S-057",
+    "date": "2026-11-01",
+    "department": "Київ",
+    "category": "Офіс",
+    "product": "Настільна лампа",
+    "quantity": 2,
+    "priceCents": 149900
+  },
+  {
+    "id": "S-058",
+    "date": "2026-11-02",
+    "department": "Львів",
+    "category": "Електроніка",
+    "product": "Навушники",
+    "quantity": 3,
+    "priceCents": 329900
+  },
+  {
+    "id": "S-059",
+    "date": "2026-11-03",
+    "department": "Львів",
+    "category": "Аксесуари",
+    "product": "Кабель USB-C",
+    "quantity": 4,
+    "priceCents": 45900
+  },
+  {
+    "id": "S-060",
+    "date": "2026-11-04",
+    "department": "Львів",
+    "category": "Офіс",
+    "product": "Органайзер",
+    "quantity": 5,
+    "priceCents": 59900
+  },
+  {
+    "id": "S-061",
+    "date": "2026-11-05",
+    "department": "Одеса",
+    "category": "Електроніка",
+    "product": "Монітор",
+    "quantity": 1,
+    "priceCents": 859900
+  },
+  {
+    "id": "S-062",
+    "date": "2026-11-06",
+    "department": "Одеса",
+    "category": "Аксесуари",
+    "product": "Клавіатура",
+    "quantity": 2,
+    "priceCents": 219900
+  },
+  {
+    "id": "S-063",
+    "date": "2026-11-07",
+    "department": "Одеса",
+    "category": "Офіс",
+    "product": "Настільна лампа",
+    "quantity": 3,
+    "priceCents": 149900
+  },
+  {
+    "id": "S-064",
+    "date": "2026-11-08",
+    "department": "Київ",
+    "category": "Електроніка",
+    "product": "Навушники",
+    "quantity": 4,
+    "priceCents": 329900
+  },
+  {
+    "id": "S-065",
+    "date": "2026-11-09",
+    "department": "Київ",
+    "category": "Аксесуари",
+    "product": "Кабель USB-C",
+    "quantity": 5,
+    "priceCents": 45900
+  },
+  {
+    "id": "S-066",
+    "date": "2026-11-10",
+    "department": "Київ",
+    "category": "Офіс",
+    "product": "Органайзер",
+    "quantity": 1,
+    "priceCents": 59900
+  },
+  {
+    "id": "S-067",
+    "date": "2026-11-11",
+    "department": "Львів",
+    "category": "Електроніка",
+    "product": "Монітор",
+    "quantity": 2,
+    "priceCents": 859900
+  },
+  {
+    "id": "S-068",
+    "date": "2026-11-12",
+    "department": "Львів",
+    "category": "Аксесуари",
+    "product": "Клавіатура",
+    "quantity": 3,
+    "priceCents": 219900
+  },
+  {
+    "id": "S-069",
+    "date": "2026-11-13",
+    "department": "Львів",
+    "category": "Офіс",
+    "product": "Настільна лампа",
+    "quantity": 4,
+    "priceCents": 149900
+  },
+  {
+    "id": "S-070",
+    "date": "2026-11-14",
+    "department": "Одеса",
+    "category": "Електроніка",
+    "product": "Навушники",
+    "quantity": 5,
+    "priceCents": 329900
+  },
+  {
+    "id": "S-071",
+    "date": "2026-11-15",
+    "department": "Одеса",
+    "category": "Аксесуари",
+    "product": "Кабель USB-C",
+    "quantity": 1,
+    "priceCents": 45900
+  },
+  {
+    "id": "S-072",
+    "date": "2026-11-16",
+    "department": "Одеса",
+    "category": "Офіс",
+    "product": "Органайзер",
+    "quantity": 2,
+    "priceCents": 59900
+  }
+]
